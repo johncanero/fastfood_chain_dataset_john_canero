@@ -71,6 +71,10 @@ Working Sheet
 
 ![Working Sheet - Fastfood Restaurant](assets/WorkingSheet_FastFoodRestaurant.png)
 
+Descriptive Statistics (Price and Quantity)
+
+![Statistics - Descriptive - Fastfood Restaurant](assets/Statistics_Descriptive_FastFoodRestaurant.png)
+
 Data Analysis Questions
 
 ![Questions - Fastfood Restaurant](assets/Questions_FastFoodRestaurant.png)
@@ -87,9 +91,32 @@ Manager and Country Performance
 
 ![Pivot Table - ManagerRevnue - Fastfood Restaurant](assets/PivotTable_ManagerRevenue_FastFoodRestaurant.png)
 
+
+
 ## Lessons Learned and Recommendation
+Through data analysis, it was found that best-selling products like Burgers, Fries, and Beverages drive significant revenue, suggesting a focus on product-specific promotions. Payment methods also impact revenue, with different patterns observed for cash, credit cards, and gift cards, guiding tailored payment strategies.
+
+Performance varies by manager and country, indicating the importance of region-specific strategies to enhance efficiency. Box and whisker plots revealed insights into price distribution, helping to refine pricing by identifying optimal price ranges and outliers.
+
+Recommendation: 
+  1. Focus on Top Products: Prioritize marketing and upsell strategies for best-selling items like Burgers and Beverages, which contribute most to revenue. Customization of promotions can further boost these product categories.
+
+  2. Optimize Payment Systems: Tailor payment strategies to maximize revenue, encouraging the use of high-revenue payment methods (e.g., credit cards) through loyalty programs or incentives for gift card usage.
+
+  3. Manager and Regional Performance: Implement regular performance assessments across managers and regions to address underperformance. Introduce regional-specific strategies that account for local preferences and market conditions.
+
+  4. Refine Pricing Strategies: Use descriptive statistics and data visualizations to continuously evaluate product pricing. Adjust prices to stay competitive while maintaining profit margins, focusing on outliers and price sensitivity.
+
+  5. Continue Data-Driven Decision Making: Leverage pivot tables and visualization tools to further analyze trends, identifying new opportunities for product improvement, cost management, and revenue growth.
 
 ## Limitation and What Can Be Improved
+
+Limitations
+- The analysis was limited by Excel’s capacity for handling large datasets and lacked insights into individual customer behavior or external factors like seasonality and market trends.
+
+Improvements
+- Future analysis could benefit from using tools like Power BI or Tableau for more detailed insights. Incorporating customer segmentation and external data (e.g., competitor pricing) would improve decision-making.
+
 
 ## Run Locally
 Initialize git
@@ -123,11 +150,13 @@ code .
 ```
 ├── assets
 │   ├── Banner_FastFoodRestuaurant_Dataset.png      
-│   ├──        
-│   ├──          
-│   ├── 
-│   ├──        
-│
+│   ├── PivotTable_BestsellingProduct_FastFoodRestaurant.png 
+│   ├── PivotTable_ManagerRevenue_FastFoodRestaurant.png
+│   ├── PivotTable_Revenue_FastFoodRestaurant.png   
+|   ├── Questions_FastFoodRestaurant.png 
+│   ├── Statistics_Descriptive_FastFoodRestaurant.png
+|   ├── WorkingSheet_FastFoodRestaurant.png
+|
 |
 ├── 02_fastfood_chain_dataset_john_canero.xlsx
 │ 
