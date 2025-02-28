@@ -1,4 +1,4 @@
-![banner](assets/Banner_FastFoodRestuaurant_Dataset.png)  
+![banner](assets/Banner_FastFoodRestaurant_Dataset.png)  
 Banner <a href="https://stock.adobe.com/ph/search?k=fast+food+restaurant+interior" target="_blank">source</a>
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -67,10 +67,27 @@ By analyzing product sales, payment preferences, and regional performance, the b
 
 ## Summary of Key Results
 
+Working Sheet
+
+![Working Sheet - Fastfood Restaurant](assets/WorkingSheet_FastFoodRestaurant.png)
+
+Data Analysis Questions
+
+![Questions - Fastfood Restaurant](assets/Questions_FastFoodRestaurant.png)
+
+Bestselling Product
+
+![Pivot Table - Bestselling Prodcut - Fastfood Restaurant](assets/PivotTable_BestsellingProduct_FastFoodRestaurant.png)
+
+Revenue by Payment Type
+
+![Pivot Table - Revenue - Fastfood Restaurant](assets/PivotTable_Revenue_FastFoodRestaurant.png)
+
+Manager and Country Performance
+
+![Pivot Table - ManagerRevnue - Fastfood Restaurant](assets/PivotTable_ManagerRevenue_FastFoodRestaurant.png)
 
 ## Lessons Learned and Recommendation
-
-
 
 ## Limitation and What Can Be Improved
 
