@@ -91,6 +91,10 @@ Manager and Country Performance
 
 ![Pivot Table - ManagerRevnue - Fastfood Restaurant](assets/PivotTable_ManagerRevenue_FastFoodRestaurant.png)
 
+Box and Whisker
+
+![Box and Whisker - Fastfood Restaurant](assets/BoxAndWhisker_FastFoodRestaurant.png)
+
 
 
 ## Lessons Learned and Recommendation
