@@ -67,33 +67,33 @@ By analyzing product sales, payment preferences, and regional performance, the b
 
 ## Summary of Key Results
 
-Working Sheet
+<div align="center">
+  <h4>Dashboard</h4>
+  <img src="assets/Dashboard_FastFoodRestaurant.png" alt="Dashboard - Fastfood Restaurant">
 
-![Working Sheet - Fastfood Restaurant](assets/WorkingSheet_FastFoodRestaurant.png)
+  <h4>Working Sheet</h4>
+  <img src="assets/WorkingSheet_FastFoodRestaurant.png" alt="Working Sheet - Fastfood Restaurant">
 
-Descriptive Statistics (Price and Quantity)
+  <h4>Descriptive Statistics (Price and Quantity)</h4>
+  <img src="assets/Statistics_Descriptive_FastFoodRestaurant.png" alt="Descriptive Statistics - Fastfood Restaurant">
 
-![Statistics - Descriptive - Fastfood Restaurant](assets/Statistics_Descriptive_FastFoodRestaurant.png)
+  <h4>Data Analysis Questions</h4>
+  <img src="assets/Questions_FastFoodRestaurant.png" alt="Data Analysis Questions - Fastfood Restaurant">
 
-Data Analysis Questions
+  <h4>Bestselling Product</h4>
+  <img src="assets/PivotTable_BestsellingProduct_FastFoodRestaurant.png" alt="Bestselling Product - Fastfood Restaurant">
 
-![Questions - Fastfood Restaurant](assets/Questions_FastFoodRestaurant.png)
+  <h4>Revenue by Payment Type</h4>
+  <img src="assets/PivotTable_Revenue_FastFoodRestaurant.png" alt="Revenue by Payment Type - Fastfood Restaurant">
 
-Bestselling Product
+  <h4>Manager and Country Performance</h4>
+  <img src="assets/PivotTable_ManagerRevenue_FastFoodRestaurant.png" alt="Manager and Country Performance - Fastfood Restaurant">
 
-![Pivot Table - Bestselling Prodcut - Fastfood Restaurant](assets/PivotTable_BestsellingProduct_FastFoodRestaurant.png)
+  <h4>Box and Whisker</h4>
+  <img src="assets/BoxAndWhisker_FastFoodRestaurant.png" alt="Box and Whisker - Fastfood Restaurant">
+</div>
 
-Revenue by Payment Type
 
-![Pivot Table - Revenue - Fastfood Restaurant](assets/PivotTable_Revenue_FastFoodRestaurant.png)
-
-Manager and Country Performance
-
-![Pivot Table - ManagerRevnue - Fastfood Restaurant](assets/PivotTable_ManagerRevenue_FastFoodRestaurant.png)
-
-Box and Whisker
-
-![Box and Whisker - Fastfood Restaurant](assets/BoxAndWhisker_FastFoodRestaurant.png)
 
 
 
