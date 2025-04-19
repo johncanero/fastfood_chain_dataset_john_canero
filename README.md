@@ -90,7 +90,7 @@ By analyzing product sales, payment preferences, and regional performance, the b
   <img src="assets/PivotTable_ManagerRevenue_FastFoodRestaurant.png" alt="Manager and Country Performance - Fastfood Restaurant">
 
   <h4>Box and Whisker</h4>
-  <img src="assets/BoxAndWhisker_FastFoodRestaurant.png" alt="Box and Whisker - Fastfood Restaurant">
+  <img src="assets/BoxAndWhisker_FastFoodRestaurant.png" alt="Box and Whisker - Fastfood Resstaurant">
 </div>
 
 
